@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Logo-regular";
+    src: url("../src/fonts/PostNoBillsJaffna-Regular.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Typo-light";
+    src: url("../src/fonts/EncodeSansSemiExpanded-Light.ttf") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Typo-regular";
+    src: url("../src/fonts/EncodeSansSemiExpanded-Regular.ttf") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Typo-medium";
+    src: url("../src/fonts/EncodeSansSemiExpanded-Medium.ttf") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Typo-bold";
+    src: url("../src/fonts/EncodeSansSemiExpanded-Bold.ttf") format("woff");
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  button:focus { 
+    outline: none; 
+  }
